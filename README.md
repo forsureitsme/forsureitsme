@@ -1,4 +1,4 @@
-<p align="left">I'm Pedro, but you can call me Peter /ˈpiːtə/ (he/him)<br>I'm a dev/gamer from Brasil (yes, with an S, that's how we write it here)</p>
+<p align="left">I'm Pedro, but you can call me Piter /ˈpiːtə/ (he/him)<br>I'm a dev/gamer from Brasil (yes, with an S, that's how we write it here)</p>
 
 ###
 
